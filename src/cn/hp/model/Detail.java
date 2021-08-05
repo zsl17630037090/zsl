@@ -1,6 +1,7 @@
 package cn.hp.model;
 
 public class Detail {
+    //操作
     private int bdId;
     private int bId;
     private String bdName;
